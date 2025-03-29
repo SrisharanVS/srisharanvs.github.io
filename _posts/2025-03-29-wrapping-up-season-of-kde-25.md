@@ -22,7 +22,7 @@ While the Season of KDE is ending, my journey with open source is far from over.
 
 I’m also excited to explore new opportunities, including participating in **Google Summer of Code (GSoC)**. Building on my work with KDE, I aim to tackle more ambitious projects, dive deeper into open source, and continue growing as a developer.
 
-Thank you to the KDE community, my mentors, and everyone who encouraged me throughout this program. Here’s to many more adventures in open source!
+Thank you to the KDE community, my mentors, **Benson Muite** and **João Gouveia**, and everyone who encouraged me throughout this program. Here’s to many more adventures in open source!
 
 **#Open Source #KDE #SeasonOfKDE #GameDevelopment #Mancala**
 
