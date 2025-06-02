@@ -4,8 +4,6 @@ title: 'Landing GSoC: The Dream Never Gets Old'
 date: 2025-06-02 19:20 +0530
 ---
 
-# Landing GSoC: The Dream Never Gets Old
-
 I'm excited to announce that I've been selected for **Google Summer of Code 2025**, where I’ll be working with the **KDE Community** to create a **mobile application for Mankala** using **Qt and QML**.
 
 This project is a continuation of my earlier work during *Season of KDE*, where I integrated the **Pallanguli** variant into the MankalaEngine. With the core engine now supporting multiple game variants, my focus for this summer is to design a mobile interface that makes playing Mankala more accessible and enjoyable on handheld devices.
