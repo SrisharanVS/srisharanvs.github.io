@@ -22,7 +22,16 @@ The multiplayer component is particularly important to me. Mankala is traditiona
 
 During **Season of KDE**, I worked on researching and integrating **Pallanguli**, a traditional South Indian variant, into the **MankalaEngine**. This involved implementing its unique gameplay mechanics, refining move and turn logic, and ensuring smooth integration with the existing game engine. I also developed a **Terminal User Interface (TUI)** for Pallanguli, enabling quick testing and easier interaction in headless environments.
 
-I additionally submitted a **Bugzilla request** to package the application for **Fedora Linux**, contributing to its availability on Linux distributions.
+Beyond my own contributions, the Season of KDE cohort worked collaboratively to enhance MankalaEngine significantly:
+
+- **Shubham** implemented Monte Carlo Tree Search and a Reinforcement Learning agent for smarter AI, along with writing unit tests using QTest.  
+- **Ashutosh** developed a desktop GUI for MankalaEngine using QML and Kirigami, improving the overall user experience.  
+- **Rishab** integrated the popular Kalah variant, expanding the game’s variety.  
+- **Nidhish** added PvP functionality using the XMPP protocol, laying the foundation for multiplayer gameplay.  
+
+Currently, board synchronization during multiplayer is done manually; I plan to automate and enhance this as part of my GSoC work.
+
+I also submitted a **Bugzilla request** to package the application for **Fedora Linux**, contributing to its availability on Linux distributions.
 
 Beyond development, I conducted an **Open Source Meetup** at my college, introducing students to KDE applications and encouraging hands-on contributions to free and open-source software.
 
