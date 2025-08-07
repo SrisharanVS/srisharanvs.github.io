@@ -46,6 +46,14 @@ The next step was adding support for playing against the computer. That’s now 
 
 Right now, I’m working on writing developer documentation using QDoc. The goal is to make sure everything is clear and easy to understand for anyone who wants to contribute later on.
 
+## Obstacles Faced
+
+While the experience has been rewarding, it hasn’t been without challenges. In the beginning, I had to get up to speed with new technologies like QML. It took time to get comfortable with the structure and style of development.
+
+Midway through the project, I also fell ill and had to take a few weeks off. This naturally slowed down my progress, and I couldn’t work at full pace during that period.
+
+Thankfully, both my mentor and the organization were incredibly supportive and understanding. With their help, I was granted an extension to ensure I could still complete the work properly without compromising on quality. I’m genuinely grateful for that flexibility.
+
 ### What’s Done So Far
 
 - Built the reusable QML game board
